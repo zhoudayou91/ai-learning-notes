@@ -2,7 +2,7 @@
 
 My journey of learning AI and open source projects
 
-# AI Learning Notes
+# AI Learning Notes！
 
 
 

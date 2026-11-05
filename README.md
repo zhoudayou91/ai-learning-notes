@@ -26,3 +26,29 @@ I am learning GitHub and AI open-source projects.
 
 \- Lesson 4: Learn Git Commit and Push
 
+
+
+\## My AI Open Source Projects
+
+
+
+\### Projects I Want to Learn
+
+
+
+1\. Ollama
+
+2\. LangChain
+
+3\. Open WebUI
+
+
+
+\### My Goal
+
+
+
+Learn how to explore, modify and contribute
+
+to AI open-source projects.
+
